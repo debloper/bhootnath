@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fsx = require('fs-extra')
 const sql = require('sqlite3').verbose()
 const dbs = new sql.Database(process.argv[process.argv.length - 1])

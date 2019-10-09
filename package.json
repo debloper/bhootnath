@@ -4,10 +4,15 @@
   "description": "Export posts from ghost blog's database to jekyll markdown files",
   "main": "index.js",
   "scripts": {},
+  "bin": {
+    "bhootnath": "./index.js"
+  },
   "keywords": [
     "ghost",
     "jekyll",
     "blog",
+    "static",
+    "markdown",
     "export",
     "migrate"
   ],
