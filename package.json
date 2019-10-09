@@ -1,5 +1,5 @@
 {
-  "name": "exorcist",
+  "name": "bhootnath",
   "version": "0.0.1",
   "description": "Export posts from ghost blog's database to jekyll markdown files",
   "main": "index.js",

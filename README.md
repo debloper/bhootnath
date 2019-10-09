@@ -1,13 +1,13 @@
-# Exorcist
+# Bhootnath
 ### Export posts from ghost blog's database to jekyll markdown files
 
 ## Usage
 
 ```
-git clone https://github.com/debloper/exorcist.git
+git clone https://github.com/debloper/bhootnath.git
 # may be I should rather publish as an npm package
 
-cd exorcist
+cd bhootnath
 npm install
 
 node index.js /path/to/ghost.db
