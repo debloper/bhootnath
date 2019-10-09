@@ -16,6 +16,10 @@
     "export",
     "migrate"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/debloper/bhootnath.git"
+  },
   "author": "Soumya Deb <debloper@gmail.com>",
   "license": "MIT",
   "dependencies": {

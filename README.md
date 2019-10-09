@@ -4,13 +4,7 @@
 ## Usage
 
 ```
-git clone https://github.com/debloper/bhootnath.git
-# may be I should rather publish as an npm package
-
-cd bhootnath
-npm install
-
-node index.js /path/to/ghost.db
+npx bhootnath /path/to/ghost.db
 ls _posts/
 ```
 
